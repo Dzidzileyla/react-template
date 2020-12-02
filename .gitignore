@@ -1,0 +1,14 @@
+# modules
+node_modules
+
+# generated code
+public/bundle.js
+
+# npm
+package-lock.json
+
+# yarn
+yarn.lock
+
+# cypress
+cypress/videos
