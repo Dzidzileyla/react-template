@@ -12,3 +12,6 @@ yarn.lock
 
 # cypress
 cypress/videos
+
+# vscode
+.vscode
