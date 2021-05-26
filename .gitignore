@@ -13,5 +13,6 @@ yarn.lock
 # cypress
 cypress/videos
 
-# vscode
-.vscode
+# jest
+test/__snapshots__/*
+coverage
